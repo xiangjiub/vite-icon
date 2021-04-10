@@ -5,7 +5,7 @@ This template should help get you started developing with Vue 3 and Typescript i
 ### Icon的安装
 
 1. yarn add @iconify/iconify
-2. yarn add @iconify/json
+2. yarn add @iconify/json -D
 3. yarn add @purge-icons/generated -D
 yarn add vue-types
 
