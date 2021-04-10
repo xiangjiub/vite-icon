@@ -31,7 +31,7 @@
       prefix: propTypes.string.def(''),
     },
 
-    setup(props:any) {
+    setup(props) {
         console.log(props.icon);
         
       const elRef = ref(null);
