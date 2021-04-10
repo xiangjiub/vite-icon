@@ -21,17 +21,12 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@iconify/iconify@>=2.0.0-rc.6":
+"@iconify/iconify@>=2.0.0-rc.6", "@iconify/iconify@^2.0.0-rc.6":
   version "2.0.0-rc.6"
   resolved "https://registry.npm.taobao.org/@iconify/iconify/download/@iconify/iconify-2.0.0-rc.6.tgz#e3f5376b63b441dcb3696317784b98e2e678cf46"
   integrity sha1-4/U3a2O0QdyzaWMXeEuY4uZ4z0Y=
   dependencies:
     cross-fetch "^3.0.6"
-
-"@iconify/iconify@^1.0.7":
-  version "1.0.7"
-  resolved "https://registry.npm.taobao.org/@iconify/iconify/download/@iconify/iconify-1.0.7.tgz#22e6d384482995738746eeb38b9b76588df41d57"
-  integrity sha1-IubThEgplXOHRu6zi5t2WI30HVc=
 
 "@iconify/json@^1.1.327":
   version "1.1.327"

@@ -7,12 +7,12 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "@iconify/iconify": "^1.0.7",
-    "@iconify/json": "^1.1.327",
+    "@iconify/iconify": "^2.0.0-rc.6",
     "vue": "^3.0.5",
     "vue-types": "^3.0.2"
   },
   "devDependencies": {
+    "@iconify/json": "^1.1.327",
     "@purge-icons/generated": "^0.7.0",
     "@vitejs/plugin-vue": "^1.2.1",
     "@vue/compiler-sfc": "^3.0.5",

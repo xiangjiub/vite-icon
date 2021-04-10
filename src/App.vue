@@ -4,7 +4,9 @@
   <Icon :icon="xa" :size="24" />
   <Icon :icon="xa" :size="24" />
   <Icon :icon="'uil:heart-sign'" :size="24" />
-  
+  <Icon :icon="'ant-design:customer-service-filled'" :size="24" />
+
+ 
 </template>
 
 <script lang="ts">
